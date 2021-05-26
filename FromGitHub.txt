@@ -1,4 +1,3 @@
-This os the file I added directly from github.com to simulate my coworker pushed this change to this repo so I can pull down what he has added
+This is the file I added directly from github.com to simulate my coworker pushed this change to this repo so I can pull down what he has added
 
-Added some changes from local
-
+This is my coworker adding changes and pushing to remote
